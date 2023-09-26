@@ -1,8 +1,8 @@
-# Voice To Color 🗣️🎨
+# Voice To Color 🎨
 
 ## Overview
 
-Voice To Color is a website that uses the Web Speech API to change the background Color based on voice commands. Speak a Color name, and the website will change its background to that Color!
+Voice To Color is a website that uses the Web Speech API to change the background Color based on voice commands. Say the name of a Color, and the website will change its background to that Color!
 
 ## Table of Contents
 
