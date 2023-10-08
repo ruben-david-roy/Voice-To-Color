@@ -1,6 +1,6 @@
 # Supported Colors 🎨
 
-Below is a list of all the supported colors in the Voice To Color web application. You can speak any of these color names to change the background of the webpage.
+Below is a list of all the supported colors in the Voice To Color web app. You can speak any of these color names to change the background of the webpage.
 
 - `aqua`
 - `azure`
