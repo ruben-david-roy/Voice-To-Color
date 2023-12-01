@@ -27,10 +27,6 @@ Voice To Color is a website that uses the Web Speech API to change the backgroun
 
 The application listens for a voice input once the user clicks anywhere on the webpage. After processing the voice input, it changes the background Color to the recognized Color name.
 
-## Prerequisites
-
-Since this is a static website, there are no prerequisites or installations required. Simply clone the repository and open `index.html` in your browser.
-
 ## Full List of Colors
 
 You can find the full list of supported colors [here](COLORS.md).
